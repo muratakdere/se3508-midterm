@@ -1,2 +1,1 @@
-This folder is for storing the trained model (.pth) files,
-download from the provided Google Drive link and place them here.
+This folder is for storing the trained model (.pth) files. You can download them from the Google Drive link provided in the README file and place them here.

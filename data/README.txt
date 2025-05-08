@@ -1,2 +1,1 @@
-This folder should contain the Flowers dataset,
-download it from Kaggle and extract it here.
+This folder should contain the Flowers dataset. You can download it from the Kaggle link provided in the README file and extract it here.
