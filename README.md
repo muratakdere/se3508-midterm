@@ -285,6 +285,11 @@ The performance of the three models (Custom CNN, VGG16 Feature Extractor, and VG
 - The **Custom CNN**, while simpler in architecture, still achieved a good performance, providing a solid baseline for comparison.
 
 
-
+This project was completed as part of the SE3508 Introduction to Artificial Intelligence course,
+instructed by Dr. Selim Yılmaz, Department of Software Engineering at Muğla Sıtkı Koçman
+University, 2025.
+� Note: This repository must not be used by students in the same faculty in future years—whether
+partially or fully—as their own submission. Any form of code reuse without proper modification and
+original contribution will be considered by the instructor a violation of academic integrity policies.
 
 
